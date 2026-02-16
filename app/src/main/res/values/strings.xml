@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForceFlow</string>
+    <string name="widget_name">ForceFlow Widget</string>
+    <string name="widget_description">Check your Codeforces heatmap and stats with ForceFlow.</string>
+</resources>
